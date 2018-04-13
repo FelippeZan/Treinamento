@@ -1,0 +1,112 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Realizar Teste",
+        "description": "",
+        "id": "projeto-utilizado-para-criar-uma-rotina-de-teste-do-site-banco-ripley;realizar-teste",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8704786214,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "testeBancoRipley - Acessar a tela inicial",
+            "match": {
+              "location": "Teste.acessarPagina()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7561481476,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "testeBancoRipley - Abrir primeira opcao",
+            "match": {
+              "location": "Teste.realizarBusca1()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7171698433,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "testeBancoRipley - Abrir segunda opcao",
+            "match": {
+              "location": "Teste.realizarBusca2()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6682438719,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "testeBancoRipley - Abrir terceira opcao",
+            "match": {
+              "location": "Teste.realizarBusca3()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6483852759,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "testeBancoRipley - Abrir quarta opcao",
+            "match": {
+              "location": "Teste.realizarBusca4()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6724954312,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "testeBancoRipley - Abrir quinta opcao",
+            "match": {
+              "location": "Teste.realizarBusca5()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6127282475,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "testeBancoRipley - Abrir sexta opcao",
+            "match": {
+              "location": "Teste.realizarBusca()"
+            },
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@testeBancoRipley"
+          }
+        ]
+      }
+    ],
+    "name": "Projeto utilizado para criar uma rotina de teste do site Banco Ripley",
+    "description": "",
+    "id": "projeto-utilizado-para-criar-uma-rotina-de-teste-do-site-banco-ripley",
+    "keyword": "Feature",
+    "uri": "src/test/java/execution/testeBancoRipley.feature"
+  }
+]
